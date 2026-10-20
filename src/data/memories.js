@@ -66,8 +66,7 @@ const memories = [
     ],
 
     story:
-      "Write about your first video call. The first time you saw his face on the screen and how that moment felt.",
-
+      "It was the first time I realized how hard it is to look into your eyes directly. ❤️🥹",
     button: "Continue our story",
   },
 
