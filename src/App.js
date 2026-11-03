@@ -12,24 +12,6 @@ import memories from "./data/memories";
 function App() {
 
 
-  /*
-  ==================================================
-
-  ❤️ YOUR WEDDING DATE
-
-  CHANGE THIS DATE.
-
-  Example:
-
-  2027-05-20T10:30:00
-
-  Format:
-
-  YYYY-MM-DDTHH:MM:SS
-
-  ==================================================
-  */
-
 
  const weddingDate =
   new Date(
