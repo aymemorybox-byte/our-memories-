@@ -33,7 +33,7 @@ function App() {
 
  const weddingDate =
   new Date(
-    "2026-11-26T20:35:00"
+    "2026-11-26T20:32:00"
   ).getTime();
 
 
